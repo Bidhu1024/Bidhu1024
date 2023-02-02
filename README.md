@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Bidhubhushan Gahan<br>👀 I’m interested in FullStack Web Development <br>🌱 I’m currently learning React and Redux<br>💞️ I’m looking to collaborate on @React Projects<br>📫 How to reach me? bidhu1024av@gmail.com
+👋 Hi, I’m Bidhubhushan Gahan<br>👀 I’m interested in FullStack Web Development <br>🌱 I’m currently learning React and Redux<br>💞️ I’m looking to collaborate on @React Projects.<br>📫 How to reach me? bidhu1024av@gmail.com
 
 
 ## 🌐 Socials:
